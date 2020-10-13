@@ -1,1 +1,5 @@
-# js-template
+# Javascript Project Template
+
+Getting Started
+
+    npm i
