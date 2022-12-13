@@ -3,3 +3,14 @@ node_modules/
 .vscode
 .idea
 .env
+
+# production
+dist/
+build/
+
+# misc
+.parcel-cache
+.cache
+
+# sqlite
+*.sqlite
